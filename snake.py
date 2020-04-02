@@ -43,7 +43,6 @@ while True:
 	# add if snake finds food
 
 	window.addch(snake[0][0],snake[0][1], curses.ACS_CKBOARD)
-	print("hi")
 
 
 
