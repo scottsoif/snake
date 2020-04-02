@@ -1,3 +1,3 @@
 
 
-Making a quick snake game while I was bored duirng
+Making a quick snake game while I was bored
