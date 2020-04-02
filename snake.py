@@ -9,7 +9,7 @@ height, width = screen.getmaxyx()
 window = curses.newwin(height, width, 0, 0)
 
 window.keypad(True)
-window.timeout(50) # screen refresh
+window.timeout(40) # screen refresh
 
 snake_x = width//2
 snake_y = height//2
